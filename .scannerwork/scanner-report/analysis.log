@@ -170,11 +170,11 @@ Select your <a href="https://about.sonarcloud.io">plan</a> and start improving.
   - sonar.organizations.createPersonalOrg=true
   - sonar.plsql.file.suffixes=sql,tab,pkb
   - sonar.tsql.file.suffixes=.tsql
-Settings for module: mdasc2-github
+Settings for module: a53ebcb542b1150de563ef6e1443219bee0bff8a
   - sonar.host.url=https://sonarcloud.io
   - sonar.java.binaries=./bin/
   - sonar.projectBaseDir=C:\Users\MDA\Documents\GitHub\TestTravis
-  - sonar.projectKey=mdasc2-github
+  - sonar.projectKey=a53ebcb542b1150de563ef6e1443219bee0bff8a
   - sonar.projectName=SonarQubeTest
   - sonar.projectVersion=1.0
   - sonar.sourceEncoding=UTF-8
