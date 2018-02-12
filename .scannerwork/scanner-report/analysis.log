@@ -173,6 +173,7 @@ Select your <a href="https://about.sonarcloud.io">plan</a> and start improving.
 Settings for module: a53ebcb542b1150de563ef6e1443219bee0bff8a
   - sonar.host.url=https://sonarcloud.io
   - sonar.java.binaries=./bin/
+  - sonar.organization=mdasc2-github
   - sonar.projectBaseDir=C:\Users\MDA\Documents\GitHub\TestTravis
   - sonar.projectKey=a53ebcb542b1150de563ef6e1443219bee0bff8a
   - sonar.projectName=SonarQubeTest

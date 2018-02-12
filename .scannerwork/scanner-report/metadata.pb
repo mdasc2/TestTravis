@@ -1,38 +1,38 @@
-Û¦ÓÇ˜,(a53ebcb542b1150de563ef6e1443219bee0bff8a(:3
-cpp,
-cpp-sonar-way-81587	Sonar waycpp ÀÌà·î+:-
-c(
-c-sonar-way-44762	Sonar wayc àèá·î+:0
-js*
-js-sonar-way-56838	Sonar wayjs ¨åğÆ‡,:0
-py*
-py-sonar-way-67511	Sonar waypy ÀŞ”‚Â+:6
+şüæÇ˜,mdasc2-github(a53ebcb542b1150de563ef6e1443219bee0bff8a(:4
+cpp-
+AWGIpqX6av0Eb9BJUPv4	Sonar waycpp ÀÌà·î+:0
+c+
+AWGIpqX6av0Eb9BJUPvs	Sonar wayc àèá·î+:2
+js,
+AWGIpqX6av0Eb9BJUPvv	Sonar wayjs ¨åğÆ‡,:2
+py,
+AWGIpqX6av0Eb9BJUPvt	Sonar waypy ÀŞ”‚Â+:6
 tsql.
-AV4Y-UGOzsTf1U4IRwBK	Sonar waytsql ˆûäÇá+:9
-plsql0
-plsql-sonar-way-37514	Sonar wayplsql ¨úş°Œ,:0
-cs*
-cs-sonar-way-31865	Sonar waycs ˆ¾Ö˜‡,:6
+AWGIpqX6av0Eb9BJUPvj	Sonar waytsql ˆûäÇá+:8
+plsql/
+AWGIpqX6av0Eb9BJUPvu	Sonar wayplsql ¨úş°Œ,:2
+cs,
+AWGIpqX6av0Eb9BJUPvq	Sonar waycs ˆ¾Ö˜‡,:6
 java.
-java-sonar-way-45126	Sonar wayjava è‹±Œ,:3
-web,
-web-sonar-way-50375	Sonar wayweb ˆªÔ÷º+:6
+AWGIpqX6av0Eb9BJUPv0	Sonar wayjava è‹±Œ,:4
+web-
+AWGIpqX6av0Eb9BJUPvy	Sonar wayweb ˆªÔ÷º+:6
 flex.
-flex-sonar-way-91920	Sonar wayflex €Ïó´ƒ*:3
-xml,
-xml-sonar-way-06052	Sonar wayxml ğæ¬à­+:3
-php,
-php-sonar-way-05918	Sonar wayphp àéùè€,:9
-vbnet0
-vbnet-sonar-way-31082	Sonar wayvbnet àÀçÊû+:6
+AWGIpqX5av0Eb9BJUPvg	Sonar wayflex €Ïó´ƒ*:4
+xml-
+AWGIpqX6av0Eb9BJUPvz	Sonar wayxml ğæ¬à­+:4
+php-
+AWGIpqX6av0Eb9BJUPvw	Sonar wayphp àéùè€,:8
+vbnet/
+AWGIpqX6av0Eb9BJUPvr	Sonar wayvbnet àÀçÊû+:6
 abap.
-abap-sonar-way-38370	Sonar wayabap ˆçòéì+:6
+AWGIpqX6av0Eb9BJUPvp	Sonar wayabap ˆçòéì+:6
 objc.
-objc-sonar-way-83399	Sonar wayobjc Ø…õ·î+:9
-swift0
-swift-sonar-way-89786	Sonar wayswift ó÷ç+:2
+AWGIpqX6av0Eb9BJUPv3	Sonar wayobjc Ø…õ·î+:8
+swift/
+AWGIpqX6av0Eb9BJUPvm	Sonar wayswift ó÷ç+:2
 ts,
-AV4Y-5N2zsTf1U4IRzzN	Sonar wayts ğ¤Š”,B
+AWGIpqX6av0Eb9BJUPvx	Sonar wayts ğ¤Š”,B
 scmcvs
 scmcvsİòñöç+B'
 authbitbucket
