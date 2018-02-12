@@ -1,1 +1,1 @@
-src/Test :rsrc\Test
+src/Test :rsrc\Test

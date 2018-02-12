@@ -1,4 +1,4 @@
-¸ó¿«ò,MDA(:3
+√Õ»«ò,mdasc2-github(:3
 cpp,
 cpp-sonar-way-81587	Sonar waycpp ¿Ã‡∑Ó+:-
 c(
