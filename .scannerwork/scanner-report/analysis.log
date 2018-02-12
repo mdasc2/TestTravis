@@ -1,0 +1,183 @@
+Environment variables:
+  - =C:=C:\Users\MDA\Documents\GitHub\TestTravis
+  - ALLUSERSPROFILE=C:\ProgramData
+  - APPDATA=C:\Users\MDA\AppData\Roaming
+  - COMPUTERNAME=MDA-PC
+  - ComSpec=C:\Windows\system32\cmd.exe
+  - CommonProgramFiles=C:\Program Files\Common Files
+  - CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+  - CommonProgramW6432=C:\Program Files\Common Files
+  - ERROR_CODE=0
+  - FP_NO_HOST_CHECK=NO
+  - HOMEDRIVE=C:
+  - HOMEPATH=\Users\MDA
+  - JAVA_EXEC="C:\SonarQube\bin\..\jre\bin\java.exe"
+  - JAVA_HOME=C:\SonarQube\bin\..\jre
+  - LOCALAPPDATA=C:\Users\MDA\AppData\Local
+  - LOGONSERVER=\\MDA-PC
+  - NUMBER_OF_PROCESSORS=4
+  - OS=Windows_NT
+  - PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+  - PROCESSOR_ARCHITECTURE=AMD64
+  - PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+  - PROCESSOR_LEVEL=6
+  - PROCESSOR_REVISION=5e03
+  - PROJECT_HOME=C:\Users\MDA\Documents\GitHub\TestTravis
+  - PROMPT=$P$G
+  - PSModulePath=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\;C:\Program Files\Intel\
+  - PUBLIC=C:\Users\Public
+  - Path=C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Python27;C:\Python27\Scripts;C:\SonarQube\bin;C:\Program Files\CMake\bin;C:\Users\MDA\AppData\Local\GitHubDesktop\bin
+  - ProgramData=C:\ProgramData
+  - ProgramFiles=C:\Program Files
+  - ProgramFiles(x86)=C:\Program Files (x86)
+  - ProgramW6432=C:\Program Files
+  - Python=C:\Python27
+  - SESSIONNAME=Console
+  - SONAR_SCANNER_HOME=C:\SonarQube\bin\..
+  - Scripts=C:\Python27\Scripts
+  - SonarQube=C:\SonarQube\bin
+  - SystemDrive=C:
+  - SystemRoot=C:\Windows
+  - TEMP=C:\Users\MDA\AppData\Local\Temp
+  - TMP=C:\Users\MDA\AppData\Local\Temp
+  - USERDOMAIN=MDA-PC
+  - USERNAME=MDA
+  - USERPROFILE=C:\Users\MDA
+  - VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+  - configsetroot=C:\Windows\ConfigSetRoot
+  - scriptdir=C:\SonarQube\bin
+  - use_embedded_jre=true
+  - windir=C:\Windows
+System properties:
+  - awt.toolkit=sun.awt.windows.WToolkit
+  - file.encoding=Cp1252
+  - file.encoding.pkg=sun.io
+  - file.separator=\
+  - java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+  - java.awt.headless=true
+  - java.awt.printerjob=sun.awt.windows.WPrinterJob
+  - java.class.path=C:\SonarQube\bin\..\lib\sonar-scanner-cli-3.0.3.778.jar
+  - java.class.version=52.0
+  - java.endorsed.dirs=C:\SonarQube\jre\lib\endorsed
+  - java.ext.dirs=C:\SonarQube\jre\lib\ext;C:\Windows\Sun\Java\lib\ext
+  - java.home=C:\SonarQube\jre
+  - java.io.tmpdir=C:\Users\MDA\AppData\Local\Temp\
+  - java.library.path=C:\SonarQube\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Python27;C:\Python27\Scripts;C:\SonarQube\bin;C:\Program Files\CMake\bin;C:\Users\MDA\AppData\Local\GitHubDesktop\bin;.
+  - java.runtime.name=Java(TM) SE Runtime Environment
+  - java.runtime.version=1.8.0_121-b13
+  - java.specification.name=Java Platform API Specification
+  - java.specification.vendor=Oracle Corporation
+  - java.specification.version=1.8
+  - java.vendor=Oracle Corporation
+  - java.vendor.url=http://java.oracle.com/
+  - java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+  - java.version=1.8.0_121
+  - java.vm.info=mixed mode
+  - java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+  - java.vm.specification.name=Java Virtual Machine Specification
+  - java.vm.specification.vendor=Oracle Corporation
+  - java.vm.specification.version=1.8
+  - java.vm.vendor=Oracle Corporation
+  - java.vm.version=25.121-b13
+  - line.separator=
+
+  - os.arch=amd64
+  - os.name=Windows 7
+  - os.version=6.1
+  - path.separator=;
+  - project.home=C:\Users\MDA\Documents\GitHub\TestTravis
+  - scanner.home=C:\SonarQube\bin\..
+  - sun.arch.data.model=64
+  - sun.boot.class.path=C:\SonarQube\jre\lib\resources.jar;C:\SonarQube\jre\lib\rt.jar;C:\SonarQube\jre\lib\sunrsasign.jar;C:\SonarQube\jre\lib\jsse.jar;C:\SonarQube\jre\lib\jce.jar;C:\SonarQube\jre\lib\charsets.jar;C:\SonarQube\jre\lib\jfr.jar;C:\SonarQube\jre\classes
+  - sun.boot.library.path=C:\SonarQube\jre\bin
+  - sun.cpu.endian=little
+  - sun.cpu.isalist=amd64
+  - sun.desktop=windows
+  - sun.io.unicode.encoding=UnicodeLittle
+  - sun.java.command=org.sonarsource.scanner.cli.Main -X
+  - sun.java.launcher=SUN_STANDARD
+  - sun.jnu.encoding=Cp1252
+  - sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+  - sun.os.patch.level=Service Pack 1
+  - sun.stderr.encoding=cp437
+  - sun.stdout.encoding=cp437
+  - user.country=US
+  - user.dir=C:\Users\MDA\Documents\GitHub\TestTravis
+  - user.home=C:\Users\MDA
+  - user.language=en
+  - user.name=MDA
+  - user.script=
+  - user.timezone=America/Los_Angeles
+  - user.variant=
+SonarQube plugins:
+  - CVS 1.0 (scmcvs)
+  - Bitbucket Authentication for SonarQube 1.0 (authbitbucket)
+  - Branch 7.1.0.411 (branch)
+  - SonarQube :: Plugins :: SCM :: SVN 1.6.0.860 (scmsvn)
+  - Billing 7.1.0.411 (billing)
+  - SonarPLSQL 3.2.0.1753 (plsql)
+  - SonarC# 6.7.1.4347 (csharp)
+  - SonarJava 5.0.1.12818 (java)
+  - Web 2.5.0.476 (web)
+  - Flex 2.3 (flex)
+  - SonarXML 1.5.0.1023 (xml)
+  - SonarTS 1.5.0.2122 (typescript)
+  - SonarVB 4.2.0.248 (vbnet)
+  - SonarSwift 3.1.0.2067 (swift)
+  - GitHub 1.4.2.1027 (github)
+  - SonarCFamily 5.0.0.9359 (cpp)
+  - SonarPython 1.8.0.1496 (python)
+  - GitHub Authentication for SonarQube 1.3 (authgithub)
+  - Mercurial 1.1.1 (scmmercurial)
+  - SonarTSQL 1.1.0.2177 (tsql)
+  - SonarJS 4.0.0.5862 (javascript)
+  - License 3.2.0.1163 (license)
+  - SonarQube :: Plugins :: SCM :: Git 1.3.0.869 (scmgit)
+  - HA 7.1.0.411 (ha)
+  - SonarPHP 2.12.0.2871 (php)
+  - Developer 7.1.0.411 (developer)
+  - SonarABAP 3.5.0.1080 (abap)
+  - SVG Badges 3.0.1 (status)
+Global properties:
+  - email.from=noreply@sonarcloud.io
+  - email.prefix=[SonarCloud]
+  - sonar.auth.bitbucket.enabled=true
+  - sonar.auth.github.allowUsersToSignUp=true
+  - sonar.auth.github.enabled=true
+  - sonar.core.id=AVdllfqQ9IFRWI6U49y8
+  - sonar.core.serverBaseURL=https://sonarcloud.io
+  - sonar.core.startTime=2018-02-05T12:34:25+0100
+  - sonar.cpd.cross_project=false
+  - sonar.dbcleaner.daysBeforeDeletingClosedIssues=730
+  - sonar.dbcleaner.weeksBeforeDeletingAllSnapshots=480
+  - sonar.dbcleaner.weeksBeforeKeepingOnlyOneSnapshotByMonth=4
+  - sonar.dbcleaner.weeksBeforeKeepingOnlyOneSnapshotByWeek=1
+  - sonar.leak.period=30
+  - sonar.lf.aboutText=<div class="boxed-group" style="border: none; border-radius: 3px;">
+  <div class="boxed-group-inner clearfix" style="padding: 30px; border-radius: 3px; border: #e6e6e6 1px solid; background: #f3f3f3;">
+    <div style="overflow: hidden; line-height: 1.5; font-size: 16px;">
+      <p>
+Analyze your open source and private projects on SonarCloud.
+Select your <a href="https://about.sonarcloud.io">plan</a> and start improving. 
+      </p>
+    </div>
+  </div>
+</div>
+  - sonar.lf.enableGravatar=true
+  - sonar.lf.logoUrl=https://about.sonarcloud.io/images/SonarCloud-white-210px.png
+  - sonar.lf.logoWidthPx=105
+  - sonar.organizations.anyoneCanCreate=true
+  - sonar.organizations.createPersonalOrg=true
+  - sonar.plsql.file.suffixes=sql,tab,pkb
+  - sonar.tsql.file.suffixes=.tsql
+Settings for module: MDA
+  - sonar.host.url=https://sonarcloud.io
+  - sonar.java.binaries=./bin/
+  - sonar.projectBaseDir=C:\Users\MDA\Documents\GitHub\TestTravis
+  - sonar.projectKey=MDA
+  - sonar.projectName=SonarQubeTest
+  - sonar.projectVersion=1.0
+  - sonar.sourceEncoding=UTF-8
+  - sonar.sources=./src/
+  - sonar.verbose=true
+  - sonar.working.directory=C:\Users\MDA\Documents\GitHub\TestTravis\.scannerwork
