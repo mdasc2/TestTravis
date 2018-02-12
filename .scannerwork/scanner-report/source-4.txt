@@ -1,34 +1,62 @@
 package Test;
 
-import java.io.IOException;
-
-import javafx.application.Application;
 import javafx.event.ActionEvent;
-import javafx.stage.Stage;
 import javafx.fxml.FXML;
-import javafx.fxml.FXMLLoader;
-import javafx.scene.Parent;
-import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.TextField;
 
-public class Calculador extends Application {
+public class CalculatorController 
+{
 
-	@Override
-	public void start(Stage primaryStage) throws IOException 
+	@FXML
+	private TextField numOne = new TextField();
+	@FXML
+	private TextField numTwo = new TextField();
+	
+	@FXML
+	private TextField equals = new TextField();
+	
+	@FXML
+	private Button minusButton = new Button();	
+	@FXML
+	private Button plusButton = new Button();
+	@FXML
+	private Button multiButton = new Button();
+	@FXML
+	private Button divButton = new Button();
+	
+	
+	@FXML
+	public void Multiply(ActionEvent event)
 	{
-		CalculatorController cc = new CalculatorController();
-		FXMLLoader loader = new FXMLLoader();
-		loader.setLocation(getClass().getResource("/Test/JavaFX.fxml"));
-		loader.setController(cc);
+		int num2 = Integer.parseInt(numTwo.getText());
+		int num1 = Integer.parseInt(numOne.getText());
 		
-		Parent root = (Parent) loader.load();
-		Scene scene = new Scene(root);
-		primaryStage.setScene(scene);
-		primaryStage.show();
+		equals.setText(Integer.toString(num1 * num2));	
+	}
+	@FXML
+	public void Add(ActionEvent event)
+	{
+		int num2 = Integer.parseInt(numTwo.getText());
+		int num1 = Integer.parseInt(numOne.getText());
+		
+		equals.setText(Integer.toString(num1 + num2));
+		
+	}
+	@FXML
+	public void Subtract(ActionEvent event)
+	{
+		int num2 = Integer.parseInt(numTwo.getText());
+		int num1 = Integer.parseInt(numOne.getText());
+		equals.setText(Integer.toString(num1 - num2));
+	}
+	@FXML
+	public void Divide(ActionEvent event)
+	{
+		int num2 = Integer.parseInt(numTwo.getText());
+		int num1 = Integer.parseInt(numOne.getText());
+		
+		equals.setText(Integer.toString(num1 / num2));
 	}
 
-	public static void main(String[] args) {
-		launch(args);
-	}
 }
